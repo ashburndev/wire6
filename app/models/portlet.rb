@@ -1,0 +1,2 @@
+class Portlet < ApplicationRecord
+end

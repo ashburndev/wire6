@@ -1,0 +1,2 @@
+class VisualDisplayTarget < ApplicationRecord
+end

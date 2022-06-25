@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ip: MyString
+  session_identifier: MyString
+  user_identifier: MyString
+  certificate: MyString
+  uri: MyString
+  error_messages: MyString
+  user_attributes_yml: MyText
+  user: one
+
+two:
+  ip: MyString
+  session_identifier: MyString
+  user_identifier: MyString
+  certificate: MyString
+  uri: MyString
+  error_messages: MyString
+  user_attributes_yml: MyText
+  user: two

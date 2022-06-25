@@ -1,0 +1,2 @@
+class IngestFix < ApplicationRecord
+end

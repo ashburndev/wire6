@@ -1,0 +1,2 @@
+class DocumentDomesticRegion < ApplicationRecord
+end

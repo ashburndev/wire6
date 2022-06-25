@@ -1,0 +1,2 @@
+class DocumentRegion < ApplicationRecord
+end

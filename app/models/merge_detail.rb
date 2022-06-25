@@ -1,0 +1,2 @@
+class MergeDetail < ApplicationRecord
+end

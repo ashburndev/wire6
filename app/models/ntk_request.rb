@@ -1,0 +1,2 @@
+class NtkRequest < ApplicationRecord
+end

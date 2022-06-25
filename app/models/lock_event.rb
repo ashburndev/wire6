@@ -1,0 +1,2 @@
+class LockEvent < ApplicationRecord
+end

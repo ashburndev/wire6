@@ -1,0 +1,2 @@
+class NtkRequestComment < ApplicationRecord
+end

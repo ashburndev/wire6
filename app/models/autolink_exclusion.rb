@@ -1,0 +1,2 @@
+class AutolinkExclusion < ApplicationRecord
+end

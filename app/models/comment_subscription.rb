@@ -1,0 +1,2 @@
+class CommentSubscription < ApplicationRecord
+end

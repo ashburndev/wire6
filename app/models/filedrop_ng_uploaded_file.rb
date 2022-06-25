@@ -1,0 +1,2 @@
+class FiledropNgUploadedFile < ApplicationRecord
+end

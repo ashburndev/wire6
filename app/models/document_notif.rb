@@ -1,0 +1,2 @@
+class DocumentNotif < ApplicationRecord
+end

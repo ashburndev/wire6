@@ -1,0 +1,2 @@
+class ControlOrg < ApplicationRecord
+end

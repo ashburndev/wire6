@@ -1,0 +1,2 @@
+class DocumentRevision < ApplicationRecord
+end

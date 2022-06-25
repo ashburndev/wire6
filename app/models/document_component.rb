@@ -1,0 +1,2 @@
+class DocumentComponent < ApplicationRecord
+end

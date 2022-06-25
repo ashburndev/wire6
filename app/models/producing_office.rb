@@ -1,0 +1,2 @@
+class ProducingOffice < ApplicationRecord
+end
